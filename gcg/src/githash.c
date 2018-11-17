@@ -1,0 +1,1 @@
+#define GCG_GITHASH "70e7382"
